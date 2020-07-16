@@ -173,6 +173,6 @@ Module['FS_createPath']('/Cubism/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 85, "filename": "/UE4CommandLine.txt"}, {"start": 85, "audio": 0, "end": 43929471, "filename": "/Cubism/Content/Paks/Cubism-HTML5.pak"}], "remote_package_size": 43929471, "package_uuid": "2179987c-bc59-4b42-8c1a-e13eefbabce7"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 85, "filename": "/UE4CommandLine.txt"}, {"start": 85, "audio": 0, "end": 43972297, "filename": "/Cubism/Content/Paks/Cubism-HTML5.pak"}], "remote_package_size": 43972297, "package_uuid": "3e9e9686-4093-4de2-abe4-596334c83b67"});
 
 })();
